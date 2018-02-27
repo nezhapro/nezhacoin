@@ -1,0 +1,11 @@
+eth.accounts
+acc0 = eth.accounts[0]
+eth.getBalance(acc0)
+miner.start()
+miner.stop()
+acc0 = eth.accounts[0]
+eth.getBalance(acc0)
+miner.start()
+miner.stop()
+acc0 = eth.accounts[0]
+eth.getBalance(acc0)
